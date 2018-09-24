@@ -11,8 +11,8 @@ This is a Library to visualize Neural Networks based on the work by Milo Spencer
 
 ****
 ## Table of contents
-* [Just give me the code](#Just-give-me-the-code)
-* [Gallery](#Gallery)
+* [Just give me the code](#just-give-me-the-code)
+* [Gallery](#gallery)
 
 
 Just give me the code
@@ -63,7 +63,7 @@ ANN with 2 hidden layers (5 neurons in the input layer, 15 neurons in the hidden
 ![](/img/ANN_2.png "")
 
 ANN with 1 hidden layer (3 neurons in the input layer, 4 neurons in the hidden layer, and 1 neuron in the output layer)
-![](/img/ANN_3.png =x500)
+![](/img/ANN_3.png | width=400)
 
 ANN with 1 hidden layer without weights (3 neurons in the input layer, 4 neurons in the hidden layer, and 1 neuron in the output layer)
-![](/img/ANN_4.png =x500)
+![](/img/ANN_4.png | width=400)
