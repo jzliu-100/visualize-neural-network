@@ -63,7 +63,7 @@ ANN with 2 hidden layers (5 neurons in the input layer, 15 neurons in the hidden
 ![](/img/ANN_2.png "")
 
 ANN with 1 hidden layer (3 neurons in the input layer, 4 neurons in the hidden layer, and 1 neuron in the output layer)
-![](/img/ANN_3.png | width=400)
+![](/img/ANN_3.png){:height="25%" width="25%"}
 
 ANN with 1 hidden layer without weights (3 neurons in the input layer, 4 neurons in the hidden layer, and 1 neuron in the output layer)
-![](/img/ANN_4.png | width=400)
+![](/img/ANN_4.png){:height="25%" width="25%"}
