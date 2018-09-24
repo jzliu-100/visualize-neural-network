@@ -6,6 +6,8 @@ This is a Library to visualize Neural Networks based on the work by Milo Spencer
 	
 |Author|Jianzheng Liu|
 |---|---
+|Website|http://www.jzliu.net
+|---|---
 |E-mail|jzliu.100@gmail.com
 
 
@@ -56,6 +58,7 @@ network.draw()
 
 Gallery
 ------
+In all visualizations shown below, the weights are displayed using labels, different colors and lingwidths. The organge color indicates a positive weight while the blue color indicates a negative weight. Only those weights that are greater than 0.5 or lesser than -0.5 are labeled.
 ANN with 1 hidden layer (5 neurons in the input layer, 10 neurons in the hidden layer, and 1 neuron in the output layer)
 ![](/img/ANN_1.png "")
 
