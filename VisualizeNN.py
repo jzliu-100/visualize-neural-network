@@ -1,4 +1,7 @@
-# Source: https://stackoverflow.com/a/37366154/10404826
+# This Libraray is modified based the work by Milo Spencer-Harper and Oli Blum, https://stackoverflow.com/a/37366154/10404826
+# On top of that, I added support for showing weights (linewidth, colors, etc.)
+# Contributor: Jianzheng Liu
+# Contact: jzliu.100@gmail.com
 
 from matplotlib import pyplot
 from math import cos, sin, atan
