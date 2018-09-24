@@ -1,5 +1,5 @@
 import VisualizeNN as VisNN
-import os
+from sklearn.neural_network import MLPClassifier
 import numpy as np
 
 training_set_inputs = np.array([[0, 0, 1], [0, 1, 1], [1, 0, 1], [0, 1, 0], [1, 0, 0], [1, 1, 1], [0, 0, 0]])
@@ -7,13 +7,6 @@ training_set_outputs = np.array([[0, 1, 1, 1, 1, 0, 0]]).T
 
 ######################
 # Setup and train the Neural Network
-from sklearn.model_selection import KFold, train_test_split
-from sklearn.pipeline import make_pipeline
-from sklearn.preprocessing import PolynomialFeatures, StandardScaler
-from sklearn.neural_network import MLPClassifier
-from sklearn.linear_model import LogisticRegression
-from sklearn.svm import SVC
-
 X = training_set_inputs
 y = training_set_outputs
 
