@@ -1,14 +1,10 @@
 README
 ===========================
-This is a Library to visualize Neural Networks based on the work by Milo Spencer-Harper and Oli Blum (https://stackoverflow.com/a/37366154/10404826).
+This is a Library to visualize Neural Networks based on [the work](https://stackoverflow.com/a/37366154/10404826) by Milo Spencer-Harper and Oli Blum .
 
-****
-	
-|Author|Jianzheng Liu|
-|---|---
-|Website|http://www.jzliu.net
-|E-mail|jzliu.100@gmail.com
-
+This module is able to:
+1. Show the network architecture of the neural network (including the input layer, hidden layers, the output layer, the neurons in these layers, and the connections between neurons.)
+2. Show the weights of the neural network using labels, colours and lines.
 
 ****
 ## Table of contents
