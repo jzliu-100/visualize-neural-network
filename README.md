@@ -1,12 +1,12 @@
 README
 ===========================
-Inspired by [the work](https://stackoverflow.com/a/37366154/10404826) by Milo Spencer-Harper and Oli Blum, I created a simple Python module to visualize Multi-Layer Perceptron Neural Networks.
+Inspired by [the work](https://stackoverflow.com/a/37366154/10404826) of Milo Spencer-Harper and Oli Blum, I created a simple Python module to visualize Multi-Layer Perceptron Neural Networks.
 
 This module is able to:
 1. Show the network architecture of the neural network (including the input layer, hidden layers, the output layer, the neurons in these layers, and the connections between neurons.)
 2. Show the weights of the neural network using labels, colours and lines.
 
-For an introduction, please refer to [my blog](http://www.jzliu.net/blog/simple-python-library-visualize-neural-network/).
+For more details, please refer to [my blog](http://www.jzliu.net/blog/simple-python-library-visualize-neural-network/).
 
 ****
 ## Table of contents
